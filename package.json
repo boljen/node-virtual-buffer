@@ -1,0 +1,25 @@
+{
+  "name": "virtual-buffer",
+  "version": "1.0.0",
+  "description": "A virtual buffer allowing to read from a stack of multiple actual buffers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boljen/node-virtual-buffer.git"
+  },
+  "keywords": [
+    "buffer",
+    "virtual",
+    "concatenated",
+    "reader"
+  ],
+  "author": "Christophe Bol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boljen/node-virtual-buffer/issues"
+  },
+  "homepage": "https://github.com/boljen/node-virtual-buffer"
+}
